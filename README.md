@@ -1,3 +1,5 @@
-## Simple Flappy Bird Game made in Java
+## Flappy Bird
 
-Run app.java to play
+Simple recreation of the game Flappy Bird made in Java.
+
+Run app.java to play.
